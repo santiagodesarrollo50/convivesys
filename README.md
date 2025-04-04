@@ -15,3 +15,10 @@ Se recomienda encarecidamente realizar la instalación en un entorno de servidor
 
 Responsabilidad del usuario:
 El usuario es el único responsable de la seguridad y el manejo adecuado de los datos almacenados en la aplicación.
+
+Esta aplicación usa las librerias:
+phpmailer
+fpdf184
+
+El autor,
+Santiago Morales Domingo
